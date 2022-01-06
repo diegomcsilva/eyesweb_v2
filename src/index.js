@@ -1,3 +1,6 @@
-(function helloWorld() {
-  console.log('Hello World');
-}());
+import React from 'react';
+import ReactDOM from 'react-dom';
+
+ReactDOM.render(
+  document.getElementById('root')
+)
